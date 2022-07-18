@@ -1,0 +1,9 @@
+numpy
+opencv-python
+scikit-learn
+imutils
+dlib
+pytorch
+torchvision
+torchaudio
+cudatoolkit
